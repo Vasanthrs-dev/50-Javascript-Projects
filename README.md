@@ -22,4 +22,5 @@ Below is a list of the projects I've completed so far.
 | 8 | **Form Input Wave** | A login form where input labels animate with a "wave" effect when focused. | <img src="https://github.com/user-attachments/assets/83f8702d-f33b-487c-a65d-5855b88c8f22" width="300" alt="Form Input Wave Preview"> | [**View Live**](https://form-input-wave-rs.netlify.app/) |
 | 9 | **Sound Board** | A set of buttons that play different sound effects when clicked. | <img src="https://github.com/user-attachments/assets/d4d31111-1948-4ffb-aeba-54a649067fc3" width="300" alt="Sound Board Preview"> | [**View Live**](https://sound-board-rs.netlify.app) |
 | 10 | **Dad Jokes** | A simple app that fetches and displays a random dad joke from an API. | <img src="https://github.com/user-attachments/assets/a7681540-17da-42f2-8a3f-08185f20addd" width="300" alt="Dad Jokes Preview"> | [**View Live**](https://dad-jokes-rs.netlify.app) |
-|   | *(Next Project Here)*| | | |
+| 11 | **Event KeyCodes** | Displays the JavaScript event `key`, `keyCode`, and `code` properties for any pressed key. | <img src="https://github.com/user-attachments/assets/ba27a506-87b9-42bb-9bbd-26ac7f79c215" width="300" alt="Event KeyCodes Preview"> | [**View Live**](https://key-code-rs.netlify.app/) |
+|    | *(Next Project Here)*| | | |
