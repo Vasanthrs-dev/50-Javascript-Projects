@@ -26,4 +26,5 @@ Below is a list of the projects I've completed so far.
 | 12 | **FAQ** | An accordion-style FAQ component where answers toggle open and closed on click. | <img src="https://github.com/user-attachments/assets/9da9f9ef-4073-4926-a8d4-a6cd19bc8667" width="300" alt="FAQ Preview"> | [**View Live**](https://faq-rs.netlify.app/) |
 | 13 | **Random Choice Picker** | A tool that randomly selects a choice from a user-provided, comma-separated list. | <img src="https://github.com/user-attachments/assets/cc8270a9-0299-4c5a-af4b-2bf6704143e6" width="300" alt="Random Choice Picker Preview"> | [**View Live**](https://random-choice-picker-rs.netlify.app/) |
 | 14 | **Animated Navigation** | A navigation bar that expands and collapses with an animated hamburger button. | <img src="https://github.com/user-attachments/assets/eb6ef8ff-9b1a-4e52-908d-860fe1448414" width="300" alt="Animated Navigation Preview"> | [**View Live**](https://animated-navigation-rs.netlify.app/) |
-|    | *(Next Project Here)*| | | |
+| 15 | **Incrementing Counter** | Displays social media stats that animate from 0 to a target number on page load. | <img src="https://github.com/user-attachments/assets/b24005ca-ccf4-45a5-a99d-b458610703bf" width="300" alt="Incrementing Counter Preview"> | [**View Live**](https://incrementing-counter-rs.netlify.app/) |
+|     | *(Next Project Here)*| | | |
