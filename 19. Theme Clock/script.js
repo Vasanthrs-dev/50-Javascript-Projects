@@ -75,9 +75,11 @@ function getTime() {
     360
   )}deg)`;
 
+  const ampm = hours >= 12 ? "PM" : "AM";
+
   timeEl.textContent = `${hourForClock}:${
     minutes < 10 ? `0${minutes}` : minutes
-  }`;
+  } ${ampm}`;
 
   dateEl.innerHTML = `${days[day]}, ${months[month]} <span class="circle">${date}</span>`;
 }
