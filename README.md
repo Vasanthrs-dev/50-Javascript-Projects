@@ -32,5 +32,6 @@ Below is a list of the projects I've completed so far.
 | 18 | **Background Slider** | A full-page background image slider with next and previous arrow controls. | <img src="https://github.com/user-attachments/assets/aa78f8a4-3fc3-400c-a8ae-5c19a7b10bb0" width="300" alt="Background Slider Preview"> | [**View Live**](https://background-slider-rs.netlify.app/) |
 | 19 | **Theme Clock** | An analog and digital clock that displays the current time and date, with a button to toggle between light and dark themes. | <img src="https://github.com/user-attachments/assets/2d5037d3-39b1-4e23-af38-137a29372264" width="300" alt="Theme Clock Preview"> | [**View Live**](https://theme-clock-rs.netlify.app/) |
 | 20 | **Button Ripple Effect** | Creates a circular ripple effect on a button starting from the click position using CSS animations and JavaScript. | <img src="https://github.com/user-attachments/assets/4334b58f-cc7d-416e-a7ae-2056a4b4cc34" width="300" alt="Button Ripple Effect Preview"> | [**View Live**](https://button-ripple-rs.netlify.app/) |
-|    | *(Next Project Here)*| | | |
+| 21 | **Drag N Drop** | A simple drag-and-drop interface where an image can be moved between several empty containers. | <img src="https://github.com/user-attachments/assets/c7ef3497-aff9-41ca-8c1b-7dc545104fb0" width="300" alt="Drag N Drop Preview"> | [**View Live**](https://drag-n-drop-rs.netlify.app/) |
+|     | *(Next Project Here)*| | | |
 
