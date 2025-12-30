@@ -34,4 +34,7 @@ Below is a list of the projects I've completed so far.
 | 20 | **Button Ripple Effect** | Creates a circular ripple effect on a button starting from the click position using CSS animations and JavaScript. | <img src="https://github.com/user-attachments/assets/4334b58f-cc7d-416e-a7ae-2056a4b4cc34" width="300" alt="Button Ripple Effect Preview"> | [**View Live**](https://button-ripple-rs.netlify.app/) |
 | 21 | **Drag N Drop** | A simple drag-and-drop interface where an image can be moved between several empty containers. | <img src="https://github.com/user-attachments/assets/c7ef3497-aff9-41ca-8c1b-7dc545104fb0" width="300" alt="Drag N Drop Preview"> | [**View Live**](https://drag-n-drop-rs.netlify.app/) |
 | 22 | **Accordion** | A dynamic FAQ-style accordion that expands and collapses answers on click, featuring smooth arrow rotation and single-section focus. | <img src="https://github.com/user-attachments/assets/bb8b347f-de3b-46f0-86c6-865f4e928d7b"  width="300" alt="Accordion Preview"> | [**View Live**](https://jsaccordion-rs.netlify.app/) |
+| 23 | **Random Color Generator** | A dual-mode color tool that generates random Hex colors and allows manual RGB adjustment via sliders, featuring one-click clipboard copying for both formats. | <img src="https://github.com/user-attachments/assets/3dea68a8-a0b2-4400-bb5d-34c46a219429" width="300" alt="Random Color Generator Preview"> | [**View Live**](https://random-color-rs.netlify.app/) |
 |     | *(Next Project Here)*| | | |
+
+
