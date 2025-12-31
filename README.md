@@ -35,6 +35,6 @@ Below is a list of the projects I've completed so far.
 | 21 | **Drag N Drop** | A simple drag-and-drop interface where an image can be moved between several empty containers. | <img src="https://github.com/user-attachments/assets/c7ef3497-aff9-41ca-8c1b-7dc545104fb0" width="300" alt="Drag N Drop Preview"> | [**View Live**](https://drag-n-drop-rs.netlify.app/) |
 | 22 | **Accordion** | A dynamic FAQ-style accordion that expands and collapses answers on click, featuring smooth arrow rotation and single-section focus. | <img src="https://github.com/user-attachments/assets/bb8b347f-de3b-46f0-86c6-865f4e928d7b"  width="300" alt="Accordion Preview"> | [**View Live**](https://jsaccordion-rs.netlify.app/) |
 | 23 | **Random Color Generator** | A dual-mode color tool that generates random Hex colors and allows manual RGB adjustment via sliders, featuring one-click clipboard copying for both formats. | <img src="https://github.com/user-attachments/assets/3dea68a8-a0b2-4400-bb5d-34c46a219429" width="300" alt="Random Color Generator Preview"> | [**View Live**](https://random-color-rs.netlify.app/) |
+| 24 | **Star Rating** | An interactive star rating component featuring hover-based previews, click-to-select logic, and real-time score updates using Font Awesome icons. | <img src="https://github.com/user-attachments/assets/ff795566-5840-4fcf-87b8-45adfcf45230" width="300" alt="Star Rating Preview"> | [**View Live**](https://star-rating-rs.netlify.app/) |
 |     | *(Next Project Here)*| | | |
-
 
